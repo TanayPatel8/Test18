@@ -1,2 +1,2 @@
 # Test18
-Just for learning purpose.
+This file is just for learning purpose.
